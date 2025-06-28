@@ -2,6 +2,7 @@
 Financial application with dynamic data visualization, advanced filtering, and configurable CSV export functionality. 
 
 **_Key Features:_**
+
 **1) 📊 Dashboard Overview**
 - Summary Cards display key financial metrics: Balance, Revenue, Expenses, and Savings.
 - Interactive Line Chart visualizes Income and Expenses trends over time.
@@ -18,3 +19,10 @@ Financial application with dynamic data visualization, advanced filtering, and c
 
 **4) 📤 Configurable CSV Export**
 - Allows users to export filtered transactions with selectable columns in CSV format.
+
+**_Used Tech Stack:_**
+
+1) Frontend : React.js
+2) Backend: Nodejs
+3) Database: MongoDB
+4) Authentication: JWT, Bcrypt
