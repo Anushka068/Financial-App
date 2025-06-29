@@ -41,7 +41,7 @@ A modern, responsive financial dashboard built with React, TypeScript, Node.js, 
 ## 📁 Project Structure
 
 ```
-project-bolt-sb1-dkgxf71u/
+project-financial/
 ├── project/
 │   ├── src/                    # Frontend source code
 │   │   ├── components/         # React components
