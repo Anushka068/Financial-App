@@ -20,7 +20,7 @@
     },
     {
       "src": "/(.*)",
-      "dest": "project/dist/$1"
+      "dest": "/index.html"
     }
   ],
   "env": {
